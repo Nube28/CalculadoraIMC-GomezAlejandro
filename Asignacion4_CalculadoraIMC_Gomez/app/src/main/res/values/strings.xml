@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asignacion4_CalculadoraIMC_Gomez</string>
+    <string name="estatura">Estatura</string>
+    <string name="peso">Peso</string>
+    <string name="calcularImc">Calcular IMC</string>
+    <string name="papu">papu pro :v</string>
+</resources>
